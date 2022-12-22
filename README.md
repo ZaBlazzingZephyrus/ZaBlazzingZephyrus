@@ -1,12 +1,12 @@
-# Haaai, I'm ZaBlazzingZeif!
-Welcome to my personal GitHub page! 👋
+# Haaai, I'm ZaBlazzingZeif! 👋
+Welcome to my personal GitHub page!
+
 This is the exact place where I post my project portfolio, as well as other miscellaneous things I create (which are mostly related to software engineering and game development).
 
-Table of Contents:
-- [About me](#about-me)
-- [What I am working on](#what-i-am-working-on)
-- [Contact me](#contact-me)
-- [Thank you for reading!](#thank-you-for-reading)
++ [About me](#about-me)
++ [What I am working on](#what-i-am-working-on)
++ [Contact me](#contact-me)
++ [Thank you for reading!](#thank-you-for-reading)
 
 # About me
 Languages which I can speak:
