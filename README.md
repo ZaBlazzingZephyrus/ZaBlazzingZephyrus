@@ -49,6 +49,10 @@ Later on, when I am more of less free, I am planning to learn more of game devel
 
 I might also update this page later as right now it feels a bit empty for my liking.
 
+(Edit from December 23, 2022)
+I am also having a bit of trouble with GitHub sometimes, so my repositories are all kinda wacky.
+I promise the future ones will eventually be better.
+
 # Contact me
 I am currently somewhat inactive on the web except for GitHub, but you can always contact me via Discord. I am freely available on it for the vast majority of time and I try to reply as soon as I can.
 My tag is **ZaBlazzingZeif#4504**.
@@ -73,4 +77,4 @@ But regardless of that, if you just feel like chatting with me I guess it is wor
 
 *Current status: Extremely busy 🔴*
 
-*Posted on December 12, 2022, last updated December 12, 2022 21:21 UTC+7.*
+*Posted on December 22, 2022, last updated December 23, 2022 21:21 UTC+7.*
